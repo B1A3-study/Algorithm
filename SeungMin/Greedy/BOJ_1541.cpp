@@ -3,7 +3,7 @@
 #include <string>
 #include <cstring>
 #include <math.h>
-//BOJ 1541 읽어버린 괄호 문제(Greedy)
+//BOJ 1541 읽어버린 괄호 문제(Greedy)//
 using namespace std;
 
 int main(){
